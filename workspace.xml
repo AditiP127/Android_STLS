@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcd1776c-127c-4a17-8e02-0f9c938bdf8e" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1q0TrlDBwXtqqKFL7PkwZf2Lr43" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.recentlyUsedThemes" value="android:Theme.Holo.Light.DarkActionBar&#10;android:Theme.WithActionBar" />
+    <property name="android.sdk.path" value="$USER_HOME$/Documents/Android_Setup/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1567645089">
+      <recent name="com.example.company.googlemap" />
+    </key>
+    <key name="android.template.-1222788590">
+      <recent name="com.example.company.googlemap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/company/googlemap" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="GoogleMap.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcd1776c-127c-4a17-8e02-0f9c938bdf8e" name="Default" comment="" />
+      <created>1607997725988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607997725988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="0" key="#app" timestamp="1619273195614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#app/0.0.1366.728@0.0.1366.728" timestamp="1619273195614" />
+    <state x="648" y="171" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1619240649025">
+      <screen x="80" y="27" width="1520" height="873" />
+    </state>
+    <state x="648" y="171" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/80.27.1520.873@80.27.1520.873" timestamp="1619240649025" />
+    <state x="573" y="212" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616223029775">
+      <screen x="80" y="27" width="1520" height="873" />
+    </state>
+    <state x="573" y="212" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/80.27.1520.873@80.27.1520.873" timestamp="1616223029775" />
+    <state x="423" y="171" width="824" height="591" key="AndroidThemeDialog" timestamp="1616222805246">
+      <screen x="80" y="27" width="1520" height="873" />
+    </state>
+    <state x="423" y="171" width="824" height="591" key="AndroidThemeDialog/80.27.1520.873@80.27.1520.873" timestamp="1616222805246" />
+    <state x="623" y="221" width="424" height="491" key="FileChooserDialogImpl" timestamp="1619260089580">
+      <screen x="80" y="27" width="1520" height="873" />
+    </state>
+    <state x="623" y="221" width="424" height="491" key="FileChooserDialogImpl/80.27.1520.873@80.27.1520.873" timestamp="1619260089580" />
+    <state width="1474" height="216" key="GridCell.Tab.0.bottom" timestamp="1616222061445">
+      <screen x="80" y="27" width="1520" height="873" />
+    </state>
+    <state width="1474" height="216" key="GridCell.Tab.0.bottom/80.27.1520.873@80.27.1520.873" timestamp="1616222061445" />
+    <state width="1474" height="216" key="GridCell.Tab.0.center" timestamp="1616222061441">
+      <screen x="80" y="27" width="1520" height="873" />
+    </state>
+    <state width="1474" height="216" key="GridCell.Tab.0.center/80.27.1520.873@80.27.1520.873" timestamp="1616222061441" />
+    <state width="1474" height="216" key="GridCell.Tab.0.left" timestamp="1616222061439">
+      <screen x="80" y="27" width="1520" height="873" />
+    </state>
+    <state width="1474" height="216" key="GridCell.Tab.0.left/80.27.1520.873@80.27.1520.873" timestamp="1616222061439" />
+    <state width="1474" height="216" key="GridCell.Tab.0.right" timestamp="1616222061443">
+      <screen x="80" y="27" width="1520" height="873" />
+    </state>
+    <state width="1474" height="216" key="GridCell.Tab.0.right/80.27.1520.873@80.27.1520.873" timestamp="1616222061443" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1619276310478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1619276310478" />
+    <state x="612" y="243" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1619240974796">
+      <screen x="80" y="27" width="1520" height="873" />
+    </state>
+    <state x="612" y="243" width="446" height="447" key="chooseDestDirectoryDialog/80.27.1520.873@80.27.1520.873" timestamp="1619240974796" />
+    <state x="545" y="274" width="580" height="385" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1616222059593">
+      <screen x="80" y="27" width="1520" height="873" />
+    </state>
+    <state x="545" y="274" width="580" height="385" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/80.27.1520.873@80.27.1520.873" timestamp="1616222059593" />
+  </component>
+</project>
